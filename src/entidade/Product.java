@@ -32,10 +32,3 @@ public class Product {
 		
 	}
 }
-
-// perdeu 3 seguidas 
-// ganhou 1
-// 
-
-
-
